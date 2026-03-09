@@ -1,0 +1,5 @@
+med30_armorm_full.jsonl filter=lfs diff=lfs merge=lfs -text
+med30_armorm_highavg.jsonl filter=lfs diff=lfs merge=lfs -text
+med30_armorm_highvar.jsonl filter=lfs diff=lfs merge=lfs -text
+med30_armorm_lowavg.jsonl filter=lfs diff=lfs merge=lfs -text
+med30_armorm_rand42.jsonl filter=lfs diff=lfs merge=lfs -text
